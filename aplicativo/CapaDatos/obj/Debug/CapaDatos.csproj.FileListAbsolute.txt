@@ -1,0 +1,30 @@
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\APLICATIVO\aplicativo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaDatos\obj\Debug\CapaDatos.pdb

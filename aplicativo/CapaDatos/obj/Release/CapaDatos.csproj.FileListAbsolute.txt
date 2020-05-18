@@ -1,0 +1,6 @@
+C:\APLICATIVO\aplicativo\CapaDatos\bin\Release\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaDatos\bin\Release\CapaDatos.pdb
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Release\CapaDatos.csprojAssemblyReference.cache
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Release\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaDatos\obj\Release\CapaDatos.pdb

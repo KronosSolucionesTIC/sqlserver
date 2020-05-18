@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Desarrollador\Desktop\publicar_final</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Archivo.aspx">
+      <publishTime>05/16/2019 12:09:12</publishTime>
+    </File>
+    <File Include="bin/CapaDatos.dll">
+      <publishTime>06/25/2019 16:49:08</publishTime>
+    </File>
+    <File Include="bin/CapaDatos.pdb">
+      <publishTime>06/25/2019 16:49:08</publishTime>
+    </File>
+    <File Include="bin/CapaLogica.dll">
+      <publishTime>06/25/2019 16:49:08</publishTime>
+    </File>
+    <File Include="bin/CapaLogica.pdb">
+      <publishTime>06/25/2019 16:49:08</publishTime>
+    </File>
+    <File Include="bin/CapaPresentacion.dll">
+      <publishTime>06/25/2019 16:49:13</publishTime>
+    </File>
+    <File Include="bin/CapaPresentacion.pdb">
+      <publishTime>06/25/2019 16:49:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Cargue.aspx">
+      <publishTime>05/07/2019 16:28:32</publishTime>
+    </File>
+    <File Include="Creacion.aspx">
+      <publishTime>05/28/2019 17:07:12</publishTime>
+    </File>
+    <File Include="DefinirGrupo.aspx">
+      <publishTime>04/23/2019 15:43:19</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/css/bootstrap.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/css/now-ui-dashboard.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/css/now-ui-dashboard.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/css/now-ui-dashboard.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/demo/demo.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/demo/demo.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/fonts/nucleo-license.md">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/fonts/nucleo-outline.eot">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/fonts/nucleo-outline.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/fonts/nucleo-outline.woff">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/fonts/nucleo-outline.woff2">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/apple-icon.png">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/bg5.jpg">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/default-avatar.png">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/favicon.png">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/header.jpg">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/mike.jpg">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/img/now-logo.png">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/core/bootstrap.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/core/jquery.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/core/popper.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/now-ui-dashboard.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/now-ui-dashboard.js.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/now-ui-dashboard.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/plugins/bootstrap-notify.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/plugins/chartjs.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/js/plugins/perfect-scrollbar.jquery.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/cards/_card-chart.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/cards/_card-map.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/cards/_card-plain.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/cards/_card-user.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_buttons.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_cards.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_dropdown.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_inputs.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_page-header.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_transparency.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/mixins/_vendor-prefixes.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/plugins/_plugin-animate-bootstrap-notify.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/plugins/_plugin-perfect-scrollbar.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_alerts.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_buttons.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_cards.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_checkboxes-radio.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_dropdown.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_fixed-plugin.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_footers.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_images.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_inputs.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_misc.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_mixins.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_navbar.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_nucleo-outline.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_page-header.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_responsive.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_sidebar-and-main-panel.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_tables.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_typography.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/assets/scss/now-ui-dashboard/_variables.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="DiseñoWeb/docs/documentation.html">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/css/main.css">
+      <publishTime>05/30/2019 12:47:53</publishTime>
+    </File>
+    <File Include="Estilo/css/util.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/css/font-awesome.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/HELP-US-OUT.txt">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/animated.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/bordered-pulled.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/core.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/fixed-width.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/font-awesome.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/icons.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/larger.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/list.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/mixins.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/path.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/rotated-flipped.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/screen-reader.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/stacked.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/less/variables.less">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/font-awesome.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_animated.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_core.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_fixed-width.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_icons.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_larger.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_list.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_mixins.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_path.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_screen-reader.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_stacked.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/font-awesome-4.7.0/scss/_variables.scss">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Black.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-BlackItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Bold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-BoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-ExtraBold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-ExtraLight.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-ExtraLightItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Italic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Light.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-LightItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Medium.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-MediumItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Regular.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-SemiBold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-SemiBoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-Thin.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/Montserrat-ThinItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/montserrat/OFL.txt">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Black.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-BlackItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Bold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-BoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-ExtraBold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-ExtraBoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-ExtraLight.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-ExtraLightItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Italic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Light.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-LightItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Medium.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-MediumItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Regular.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-SemiBold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-SemiBoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-Thin.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/poppins/Poppins-ThinItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/OFL.txt">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Black.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-BlackItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Bold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-BoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-ExtraBold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-ExtraBoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-ExtraLight.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-ExtraLightItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Italic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Light.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-LightItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Medium.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-MediumItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Regular.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-SemiBold.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-SemiBoldItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-Thin.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/fonts/raleway/Raleway-ThinItalic.ttf">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/js/main.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/animate/animate.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/js/bootstrap.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/js/popper.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/js/popper.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/bootstrap/js/tooltip.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/css-hamburgers/hamburgers.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/css-hamburgers/hamburgers.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/jquery/jquery-3.2.1.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/select2/select2.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/select2/select2.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/select2/select2.min.css">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Estilo/vendor/select2/select2.min.js">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Inicial.aspx">
+      <publishTime>05/09/2019 15:31:10</publishTime>
+    </File>
+    <File Include="js/functions.js">
+      <publishTime>05/27/2019 15:41:59</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/27/2019 16:16:34</publishTime>
+    </File>
+    <File Include="Medidores.aspx">
+      <publishTime>04/22/2019 10:10:01</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/29/2019 09:10:11</publishTime>
+    </File>
+    <File Include="Registro.aspx">
+      <publishTime>05/30/2019 12:47:44</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>06/25/2019 16:23:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/27/2019 16:54:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

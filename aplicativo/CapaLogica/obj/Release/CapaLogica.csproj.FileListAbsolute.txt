@@ -1,0 +1,9 @@
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Release\CapaLogica.dll
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Release\CapaLogica.pdb
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Release\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Release\CapaDatos.pdb
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Release\CapaLogica.csprojAssemblyReference.cache
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Release\CapaLogica.csproj.CoreCompileInputs.cache
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Release\CapaLogica.csproj.CopyComplete
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Release\CapaLogica.dll
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Release\CapaLogica.pdb

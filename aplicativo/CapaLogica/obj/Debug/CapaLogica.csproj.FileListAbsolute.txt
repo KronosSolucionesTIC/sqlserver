@@ -1,0 +1,45 @@
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Debug\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\APLICATIVO\aplicativo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaLogica\obj\Debug\CapaLogica.pdb

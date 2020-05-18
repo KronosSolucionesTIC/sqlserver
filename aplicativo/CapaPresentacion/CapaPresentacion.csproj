@@ -1,0 +1,376 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{58CAC182-D6A9-4C2B-B838-D2094A3A02EC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Archivo.aspx" />
+    <Content Include="DiseñoWeb\assets\css\bootstrap.min.css" />
+    <Content Include="DiseñoWeb\assets\css\now-ui-dashboard.css" />
+    <Content Include="DiseñoWeb\assets\css\now-ui-dashboard.min.css" />
+    <Content Include="DiseñoWeb\assets\demo\demo.css" />
+    <Content Include="DiseñoWeb\assets\demo\demo.js" />
+    <Content Include="DiseñoWeb\assets\img\apple-icon.png" />
+    <Content Include="DiseñoWeb\assets\img\bg5.jpg" />
+    <Content Include="DiseñoWeb\assets\img\default-avatar.png" />
+    <Content Include="DiseñoWeb\assets\img\favicon.png" />
+    <Content Include="DiseñoWeb\assets\img\header.jpg" />
+    <Content Include="DiseñoWeb\assets\img\mike.jpg" />
+    <Content Include="DiseñoWeb\assets\img\now-logo.png" />
+    <Content Include="DiseñoWeb\assets\js\core\bootstrap.min.js" />
+    <Content Include="DiseñoWeb\assets\js\core\jquery.min.js" />
+    <Content Include="DiseñoWeb\assets\js\core\popper.min.js" />
+    <Content Include="DiseñoWeb\assets\js\now-ui-dashboard.js" />
+    <Content Include="DiseñoWeb\assets\js\now-ui-dashboard.min.js" />
+    <Content Include="DiseñoWeb\assets\js\plugins\bootstrap-notify.js" />
+    <Content Include="DiseñoWeb\assets\js\plugins\chartjs.min.js" />
+    <Content Include="DiseñoWeb\assets\js\plugins\perfect-scrollbar.jquery.min.js" />
+    <Content Include="DiseñoWeb\docs\documentation.html" />
+    <Content Include="Inicial.aspx" />
+    <Content Include="js\functions.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\animated.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\core.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\icons.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\larger.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\list.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\path.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\less\variables.less" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Include="Estilo\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.eot" />
+    <Content Include="Estilo\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.ttf" />
+    <Content Include="Estilo\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff" />
+    <Content Include="Estilo\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff2" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Black.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-BlackItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Bold.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-BoldItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-ExtraBold.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-ExtraBoldItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-ExtraLight.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-ExtraLightItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Italic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Light.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-LightItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Medium.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-MediumItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Regular.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-SemiBold.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-SemiBoldItalic.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-Thin.ttf" />
+    <Content Include="Estilo\fonts\montserrat\Montserrat-ThinItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Black.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-BlackItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Bold.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-BoldItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-ExtraBold.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-ExtraBoldItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-ExtraLight.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-ExtraLightItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Italic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Light.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-LightItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Medium.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-MediumItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Regular.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-SemiBold.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-SemiBoldItalic.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-Thin.ttf" />
+    <Content Include="Estilo\fonts\poppins\Poppins-ThinItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Black.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-BlackItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Bold.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-BoldItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-ExtraBold.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-ExtraBoldItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-ExtraLight.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-ExtraLightItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Italic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Light.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-LightItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Medium.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-MediumItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Regular.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-SemiBold.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-SemiBoldItalic.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-Thin.ttf" />
+    <Content Include="Estilo\fonts\raleway\Raleway-ThinItalic.ttf" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="DiseñoWeb\assets\css\now-ui-dashboard.css.map" />
+    <Content Include="DiseñoWeb\assets\fonts\nucleo-license.md" />
+    <Content Include="DiseñoWeb\assets\fonts\nucleo-outline.eot" />
+    <Content Include="DiseñoWeb\assets\fonts\nucleo-outline.ttf" />
+    <Content Include="DiseñoWeb\assets\fonts\nucleo-outline.woff" />
+    <Content Include="DiseñoWeb\assets\fonts\nucleo-outline.woff2" />
+    <Content Include="DiseñoWeb\assets\js\now-ui-dashboard.js.map" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\cards\_card-chart.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\cards\_card-map.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\cards\_card-plain.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\cards\_card-user.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_buttons.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_cards.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_dropdown.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_inputs.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_page-header.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_transparency.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\mixins\_vendor-prefixes.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\plugins\_plugin-animate-bootstrap-notify.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\plugins\_plugin-perfect-scrollbar.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_alerts.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_buttons.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_cards.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_checkboxes-radio.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_dropdown.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_fixed-plugin.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_footers.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_images.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_inputs.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_misc.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_mixins.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_navbar.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_nucleo-outline.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_page-header.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_responsive.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_sidebar-and-main-panel.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_tables.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_typography.scss" />
+    <Content Include="DiseñoWeb\assets\scss\now-ui-dashboard\_variables.scss" />
+    <Content Include="Registro.aspx" />
+    <Content Include="Site1.Master" />
+    <Content Include="Creacion.aspx" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Estilo\css\main.css" />
+    <Content Include="Estilo\css\util.css" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="Estilo\fonts\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="Estilo\fonts\Linearicons-Free-v1.0.0\icon-font.min.css" />
+    <Content Include="Estilo\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.svg" />
+    <Content Include="Estilo\fonts\montserrat\OFL.txt" />
+    <Content Include="Estilo\fonts\raleway\OFL.txt" />
+    <Content Include="Estilo\js\main.js" />
+    <Content Include="Estilo\vendor\animate\animate.css" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="Estilo\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Estilo\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="Estilo\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Estilo\vendor\bootstrap\js\popper.js" />
+    <Content Include="Estilo\vendor\bootstrap\js\popper.min.js" />
+    <Content Include="Estilo\vendor\bootstrap\js\tooltip.js" />
+    <Content Include="Estilo\vendor\css-hamburgers\hamburgers.css" />
+    <Content Include="Estilo\vendor\css-hamburgers\hamburgers.min.css" />
+    <Content Include="Estilo\vendor\jquery\jquery-3.2.1.min.js" />
+    <Content Include="Estilo\vendor\select2\select2.css" />
+    <Content Include="Estilo\vendor\select2\select2.js" />
+    <Content Include="Estilo\vendor\select2\select2.min.css" />
+    <Content Include="Estilo\vendor\select2\select2.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Archivo.aspx.cs">
+      <DependentUpon>Archivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Archivo.aspx.designer.cs">
+      <DependentUpon>Archivo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicial.aspx.cs">
+      <DependentUpon>Inicial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicial.aspx.designer.cs">
+      <DependentUpon>Inicial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Creacion.aspx.cs">
+      <DependentUpon>Creacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Creacion.aspx.designer.cs">
+      <DependentUpon>Creacion.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{dd248b21-33df-4247-9029-a29e7c910d59}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
+      <Project>{c2c52e42-b5be-4bf3-9784-9c4c5d69f06a}</Project>
+      <Name>CapaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Estilo\images\" />
+    <Folder Include="tmp\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>56029</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:56029/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

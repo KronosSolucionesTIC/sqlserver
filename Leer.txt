@@ -1,0 +1,3 @@
+1. Correr en motor SQL SERVER el archivo BD.sql
+2. En la ruta aplicativo\CapaPresentacion\Web.config cambiar la url "connectionString" con los datos de conexion
+3. Ejecutar la aplicacion y acceder con usuario 'Admin' contraseña '123'

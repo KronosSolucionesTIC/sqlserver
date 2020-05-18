@@ -1,0 +1,584 @@
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\estudiante\documents\visual studio 2017\Projects\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\jsolo\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\SENA Visual\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\SENA Visual\15 09 CON MENU\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Estudiante\Desktop\Proyecto\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\13022019\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Estudiante\Desktop\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Desarrollador\Downloads\Proyecto Web (1)\Proyecto Web\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Desarrollador\Desktop\DIEGO\Kronos Soluciones TIC\Clientes\Jorge Monsalvo\APLICATIVO\Proyecto TiendaComunal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Desarrollador\Desktop\MWCT10\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\csc.exe
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\csc.rsp
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\csi.exe
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\csi.rsp
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\vbc.exe
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaDatos.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaLogica.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaDatos.pdb
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\CapaLogica.pdb
+C:\APLICATIVO\aplicativo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\APLICATIVO\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\APLICATIVO\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\APLICATIVO\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\APLICATIVO\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\APLICATIVO\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\damarin\Desktop\MWCT10-master\aplicativo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
